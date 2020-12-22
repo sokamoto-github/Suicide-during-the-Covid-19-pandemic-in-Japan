@@ -1,0 +1,18 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	sremp	srretire	srunemp	srself	srhousewife	srstudent
+							
+c.post#c.before_close							0.98
+							(0.61 - 1.57)
+c.post#c.sch_close							0.51
+							(0.34 - 0.77)
+c.post#c.after_close							1.05
+							(0.77 - 1.43)
+c.post#c.first		0.80	0.80	0.83	0.81	1.17	
+		(0.70 - 0.91)	(0.69 - 0.92)	(0.73 - 0.95)	(0.61 - 1.09)	(0.81 - 1.70)	
+c.post#c.second		1.24	1.08	1.11	0.95	2.32	
+		(1.11 - 1.40)	(0.94 - 1.24)	(0.95 - 1.29)	(0.68 - 1.33)	(1.65 - 3.26)	
+							
+City-by-year Fixed Effect		YES	YES	YES	YES	YES	YES
+City-by-mon Fixed Effect		YES	YES	YES	YES	YES	YES
+Obs.		10723	9146	9246	4124	3854	3220
+Robust cieform in parentheses							
