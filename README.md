@@ -2,8 +2,8 @@ The code and data correspond to our manuscript ‘Suicide during the COVID-19 pa
 doi: 10.1101/2020.08.30.20184168
 
 Takanao Tanaka, MA1) and Shohei Okamoto, PhD2)
-1)Division of Social Science, Hong Kong University of Science and Technology, Clear Water Bay, Sai Kung, New Territories, Hong Kong
-2)Corresponding Author. Research Team for Social Participation and Community Health, Tokyo Metropolitan Institute of Gerontology, 35-2 Sakae-cho, Itabashi-ku, Tokyo, Japan
+1)Division of Social Science, Hong Kong University of Science and Technology, Clear Water Bay, Sai Kung, New Territories, Hong Kong ///
+2)Corresponding Author. Research Team for Social Participation and Community Health, Tokyo Metropolitan Institute of Gerontology, 35-2 Sakae-cho, Itabashi-ku, Tokyo, Japan ///
 
 1.	Github Respiratory
 This is published on 22 December, 2020. You can find all the available information at
