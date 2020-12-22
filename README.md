@@ -1,7 +1,7 @@
 The code and data correspond to our manuscript ‘Suicide during the COVID-19 pandemic in Japan (version 4.0, updated 22 December, 2020)’ <br>
 doi: https://doi.org/10.1101/2020.08.30.20184168 <br>
 
-<tr><td align="center">Takanao Tanaka, MA<sup>1)</sup> and Shohei Okamoto, PhD<sup>2)</sup> <br></td></tr>
+Takanao Tanaka, MA<sup>1)</sup> and Shohei Okamoto, PhD<sup>2)</sup> <br>
 
 <br>
 <sup>1)</sup> Division of Social Science, Hong Kong University of Science and Technology, Clear Water Bay, Sai Kung, New Territories, Hong Kong <br>
