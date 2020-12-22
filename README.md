@@ -1,0 +1,1 @@
+# Suicide-during-the-Covid-19-pandemic-in-Japan
