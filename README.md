@@ -1,8 +1,9 @@
 The code and data correspond to our manuscript <br> 
 ‘Suicide during the COVID-19 pandemic in Japan (version 4.0, updated 22 December, 2020)’ <br>
-doi: 10.1101/2020.08.30.20184168 <br>
+doi: https://doi.org/10.1101/2020.08.30.20184168 <br>
 
 Takanao Tanaka, MA<sup>1)</sup> and Shohei Okamoto, PhD<sup>2)</sup> <br>
+
 <sup>1)</sup> Division of Social Science, Hong Kong University of Science and Technology, Clear Water Bay, Sai Kung, New Territories, Hong Kong <br>
 <sup>2)</sup> Corresponding Author. Research Team for Social Participation and Community Health, Tokyo Metropolitan Institute of Gerontology, 35-2 Sakae-cho, Itabashi-ku, Tokyo, Japan <br>
 
