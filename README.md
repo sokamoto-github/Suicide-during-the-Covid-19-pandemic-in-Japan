@@ -1,9 +1,9 @@
-The code and data correspond to our manuscript ‘Suicide during the COVID-19 pandemic in Japan (version 4.0, updated 22 December, 2020)’ 
-doi: 10.1101/2020.08.30.20184168
+The code and data correspond to our manuscript ‘Suicide during the COVID-19 pandemic in Japan (version 4.0, updated 22 December, 2020)’ <br>
+doi: 10.1101/2020.08.30.20184168 <br>
 
-Takanao Tanaka, MA1) and Shohei Okamoto, PhD2)
-1)Division of Social Science, Hong Kong University of Science and Technology, Clear Water Bay, Sai Kung, New Territories, Hong Kong <b>
-2)Corresponding Author. Research Team for Social Participation and Community Health, Tokyo Metropolitan Institute of Gerontology, 35-2 Sakae-cho, Itabashi-ku, Tokyo, Japan ///
+Takanao Tanaka, MA1) and Shohei Okamoto, PhD2) <br>
+1)Division of Social Science, Hong Kong University of Science and Technology, Clear Water Bay, Sai Kung, New Territories, Hong Kong <br>
+2)Corresponding Author. Research Team for Social Participation and Community Health, Tokyo Metropolitan Institute of Gerontology, 35-2 Sakae-cho, Itabashi-ku, Tokyo, Japan <br>
 
 1.	Github Respiratory
 This is published on 22 December, 2020. You can find all the available information at
