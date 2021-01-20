@@ -1,6 +1,9 @@
 The code and data correspond to our manuscript ‘Suicide during the COVID-19 pandemic in Japan (version 4.0, updated 22 December, 2020)’ <br>
 doi: https://doi.org/10.1101/2020.08.30.20184168 <br>
 
+Now published in Nature Human Behaviour as 'Increase in suicide following an initial decline during the COVID-19 pandemic in Japan' <br>
+doi: 10.1038/s41562-020-01042-z <br>
+
 Takanao Tanaka, MA<sup>1)</sup> and Shohei Okamoto, PhD<sup>2)</sup> <br>
 
 <br>
