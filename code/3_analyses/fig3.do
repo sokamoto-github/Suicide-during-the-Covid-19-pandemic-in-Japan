@@ -1,3 +1,4 @@
+
 *==============================================================================*
 * Project: COVID and suicide in Japan			    			          	   *
 * Date:   2020 Nov                                                             *
@@ -6,8 +7,7 @@
 
 * set directories 
 clear all
-set maxvar  30000
-set matsize 11000 
+set matsize 800
 set more off
 cap log close
 
@@ -19,7 +19,7 @@ if `TNK'==1{
 }
 
 if `OKMT'==1{
-	global dir= "/Users/shoheiokamoto/Dropbox/macro_suicide\suicide\publication"
+	global dir= "/Users/shoheiokamoto/Desktop/Macro_health_resources/suicide/publication"
 }
 
 global data "$dir/data"
@@ -52,15 +52,13 @@ global figure  "$dir/figures"
 			
 		ppmlhdfe srel_female c.post#c.soe c.post#c.nosoe c.post#c.second [w=pop_el_female], absorb(city_id#month city_id#nyear) cluster(city_id) eform
 		parmest , saving($figure/fig3/coef_elfemale_period.dta, replace) idstr(el_female_period) idnum(6) eform
-									
+		
 ********************************************************************************	
 	
 	* child
 		
-		use "$data\working_data\working_data.dta", replace	
+		use "$data/working_data/working_data_child.dta", replace	
 					
-		collapse (sum) child pop_ch (mean) nyear period post treat, by(year month pref_id)
-	
 	* regression
 	
 		ppmlhdfe sr_ch c.post#c.pre c.post#c.close c.post#c.after [w=pop_ch], absorb(pref_id#month pref_id#nyear) cluster(pref_id) eform
